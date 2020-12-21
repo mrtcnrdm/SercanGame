@@ -1,0 +1,4 @@
+#Mon Dec 21 14:04:25 EET 2020
+base.0=D\:\\sercan_game\\NgdroidApp-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
